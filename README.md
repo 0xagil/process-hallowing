@@ -3,4 +3,4 @@
  <!-- About section -->
 
 ---
-Description might come soon. This could be helpful for some people out there. Unfinished implementation of the [KernelCallbackTable](https://captmeelo.com/redteam/maldev/2022/04/21/kernelcallbacktable-injection.html) Injection
+A description may be provided soon. This could be beneficial for certain individuals. The implementation of the [KernelCallbackTable](https://captmeelo.com/redteam/maldev/2022/04/21/kernelcallbacktable-injection.html) njection is incomplete.
