@@ -1,0 +1,14 @@
+github.com/Binject/debug v0.0.0-20200830173345-f54480b6530f/go.mod h1:QzgxDLY/qdKlvnbnb65eqTedhvQPbaSP2NqIbcuKvsQ=
+github.com/Binject/debug v0.0.0-20230508195519-26db73212a7a h1:4c0nc0krv8eh7gD809n+swLaCuFyHpxdrxwx0ZmHvBw=
+github.com/Binject/debug v0.0.0-20230508195519-26db73212a7a/go.mod h1:QzgxDLY/qdKlvnbnb65eqTedhvQPbaSP2NqIbcuKvsQ=
+github.com/C-Sto/BananaPhone v0.0.0-20220220002628-6585e5913761 h1:0144WWUvo86bVDEkxb3vmM92DCEsrkSYSd5gV1YlGKE=
+github.com/C-Sto/BananaPhone v0.0.0-20220220002628-6585e5913761/go.mod h1:QsEPWHZooj8uXL2YEdpQX+hDr00Plw7myenTiduBHRA=
+github.com/D3Ext/maldev v0.1.4 h1:uQSxX5XKp//HTCmO8SStOO1P9Ia1MiIvWjohWlOLIvE=
+github.com/D3Ext/maldev v0.1.4/go.mod h1:p3BUBjtdebrMhic7CBGL6d3kYL/j4wjhBeaKEi3ICOA=
+github.com/awgh/rawreader v0.0.0-20200626064944-56820a9c6da4 h1:cIAK2NNf2yafdgpFRNJrgZMwvy61BEVpGoHc2n4/yWs=
+github.com/awgh/rawreader v0.0.0-20200626064944-56820a9c6da4/go.mod h1:SalMPBCab3yuID8nIhLfzwoBV+lBRyaC7NhuN8qL8xE=
+github.com/mitchellh/go-ps v1.0.0 h1:i6ampVEEF4wQFF+bkYfwYgY+F/uYJDktmvLPf7qIgjc=
+github.com/mitchellh/go-ps v1.0.0/go.mod h1:J4lOc8z8yJs6vUwklHw2XEIiT4z4C40KtWVN3nvg8Pg=
+golang.org/x/sys v0.0.0-20200828194041-157a740278f4/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+golang.org/x/sys v0.8.0 h1:EBmGv8NaZBZTWvrbjNoL6HVt+IVy3QDQpJs7VRIw3tU=
+golang.org/x/sys v0.8.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
